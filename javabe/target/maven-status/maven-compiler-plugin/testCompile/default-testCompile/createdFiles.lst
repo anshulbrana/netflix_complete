@@ -1,0 +1,3 @@
+configuration/BaseTestConfig.class
+tests/TestDatabase.class
+tests/TestEndPoints.class
